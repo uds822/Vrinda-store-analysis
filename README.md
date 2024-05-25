@@ -30,7 +30,7 @@ We analyzed the data using Microsoft Excel. The data was cleaned and validated b
    - Apply slicers to make the dashboard interactive and dynamic.
 
 ## Dashboard
-
+<a href="https://github.com/uds822/Vrinda-store-analysis/blob/main/Dashboard.png">Dashboard<a/>
 
 ## Project Insights
 - Women customers are more likely to purchase products compared to men, making up approximately 65% of the buyers.
