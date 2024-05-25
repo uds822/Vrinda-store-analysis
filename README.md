@@ -7,7 +7,7 @@ We analyzed the data using Microsoft Excel. The data was cleaned and validated b
 
 
 ## Dataset Used
-- **Dataset Name:** Vrinda Store Data
+- <a href="https://github.com/uds822/Vrinda-store-analysis/blob/main/Vrinda%20store%20data.xlsx">Data set</a>
 
 ## Key Questions (KPIs)
 1. Compare the sales and orders using a single chart.
@@ -30,7 +30,7 @@ We analyzed the data using Microsoft Excel. The data was cleaned and validated b
    - Apply slicers to make the dashboard interactive and dynamic.
 
 ## Dashboard
-![Dashboard Image](path_to_your_image) 
+
 
 ## Project Insights
 - Women customers are more likely to purchase products compared to men, making up approximately 65% of the buyers.
